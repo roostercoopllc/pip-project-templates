@@ -1,0 +1,10 @@
+{
+  "project_name": "my_project",
+  "project_description": "this is a sample python pip package made from cookie cutter",
+  "project_github": "https://github.com/roostercoopllc/pip-project-templates.git",
+  "author": "roostercoopllc",
+  "author_email": "info@roostercoop.ninja",
+  "license": "BSD 3",
+  "operating_system": "Linux, Windows",
+  "python_version": "3.9"
+}
