@@ -3,6 +3,7 @@ from setuptools import setup
 setup(
     name='{{cookiecutter.project_name}}',
     version='0.1.0',    
+    # scripts=['{{cookiecutter.project_name}}'],
     description='{{cookiecutter.project_description}}',
     url='{{cookiecutter.project_github}}',
     author='{{cookiecutter.author}}',
